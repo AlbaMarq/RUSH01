@@ -1,0 +1,8 @@
+Hecho:
+- Comprobar que no se hayan introducido más de 16 números
+- Comprobar que los números introducidos solo sean de 1 a 4
+
+
+Falta:
+- Comprobar que no haya más de un 4 por fila o columna
+- Comprobar que no haya más de un 1 por fila o columna
